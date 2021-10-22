@@ -9,3 +9,5 @@ Please cite the above paper if you intent to use whole/part of the code. This co
 ![Alt Text](https://github.com/Sushma7870-git/Air-Quality-analysis-over-Dublin-during-Covid-19-Lockdown-using-Satellite-and-Ground-data/blob/main/charts/O3.gif)
 ![Alt Text](https://github.com/Sushma7870-git/Air-Quality-analysis-over-Dublin-during-Covid-19-Lockdown-using-Satellite-and-Ground-data/blob/main/charts/AOD.gif)
 
+###Time series analysis
+![](images/table 1-1.png?raw=true)
