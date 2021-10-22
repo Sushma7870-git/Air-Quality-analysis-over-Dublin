@@ -10,4 +10,4 @@ Please cite the above paper if you intent to use whole/part of the code. This co
 ![Alt Text](https://github.com/Sushma7870-git/Air-Quality-analysis-over-Dublin-during-Covid-19-Lockdown-using-Satellite-and-Ground-data/blob/main/charts/AOD.gif)
 
 ###Time series analysis
-![](https://github.com/Sushma7870-git/Air-Quality-analysis-over-Dublin-during-Covid-19-Lockdown-using-Satellite-and-Ground-data/blob/main/charts/img.jpg? =100x20)
+![](https://github.com/Sushma7870-git/Air-Quality-analysis-over-Dublin-during-Covid-19-Lockdown-using-Satellite-and-Ground-data/blob/main/charts/img.jpg? raw =100x20)
