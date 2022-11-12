@@ -1,9 +1,8 @@
-# COVID-19 Lockdown: An Unwanted, Unprecedented Way to Address the Air Pollution
+# Spatio-temporal analysis of air quality and its relationship with COVID-19 lockdown over Dublin
 
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
 
-> Sushma Kumari, Avinash Chand Yadav, Manabendra Saharia, and Soumyabrata Dev, COVID-19 Lockdown: An Unwanted, Unprecedented Way to Address the Air Pollution, *Elsevier- Computers & Geosciences*, 2021. (under review)
-
+> Sushma Kumari, Avinash Chand Yadav, Manabendra Saharia, Soumyabrata Dev,Spatio-temporal analysis of air quality and its relationship with COVID-19 lockdown over Dublin,Remote Sensing Applications: Society and Environment,Volume 28,2022,100835,ISSN 2352-9385,[Paper](https://doi.org/10.1016/j.rsase.2022.100835)
 Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
 
 ## Code Organization
